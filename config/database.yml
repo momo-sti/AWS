@@ -33,7 +33,7 @@ default: &default
   charset: utf8mb4
   collation: utf8mb4_general_ci
   username: admin
-  password: 6882STi5
+  password: 6882STi5!
   host: database-1.czxfayczbfnn.ap-southeast-2.rds.amazonaws.com
   pool: 5
   timeout: 5000
